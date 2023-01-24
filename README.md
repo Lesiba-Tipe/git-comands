@@ -12,3 +12,6 @@
  
  git config --global user.name "Nanhe Kumar"
  git config --global user.email "info@nanhekumar.com"
+ 
+ [Switch github account in terminal]
+ https://dev.to/0xbf/switch-github-account-in-terminal-92g
