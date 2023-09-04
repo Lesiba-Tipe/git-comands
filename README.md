@@ -15,3 +15,6 @@
  
  [Switch github account in terminal]
  https://dev.to/0xbf/switch-github-account-in-terminal-92g
+
+ //Import local repo to GitHub
+ https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
